@@ -10,7 +10,6 @@
 
 - Mac
 - Homebrew（Mac用のパッケージ管理ツール）
-
 - Xcode（MacのIDE）
 - Git（ソースコードのバージョン管理ツール）
 - Githubのアカウント

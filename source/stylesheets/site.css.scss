@@ -8,15 +8,16 @@ body {
   font-size: 1em;
 }
 
-header {
-  h1 {
+
+.global-header {
+  .site-heading{
     font-size: 300%;
     font-weight: bolder;
     color: black;
     letter-spacing: 4px;
     padding-top: 30px;
   }
-  p{
+  .site-description{
     font-size: 14px;
     color: #bbb;
     text-align: center;

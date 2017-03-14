@@ -18,10 +18,12 @@ body {
     padding-top: 30px;
   }
   .site-description{
+    margin:0 auto;
     font-size: 14px;
     color: #bbb;
     text-align: center;
-    padding: 0px 380px 30px 380px;
+    padding-bottom: 30px;
+    max-width: 600px;
     line-height: 1.65;
     a{
       color: skyblue;
